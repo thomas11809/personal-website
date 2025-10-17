@@ -22,6 +22,9 @@ github_username: thomas11809
 minimal_mistakes_skin: air
 search: true
 
+url     : "https://thomas11809.github.io"
+baseurl : "/personal-website"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -63,9 +66,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://thomas11809.github.io/personal-website/"
-      url     : "https://thomas11809.github.io"
-      baseurl : "/personal-website"
+      url: "https://thomas11809.github.io/personal-website/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
