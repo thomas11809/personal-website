@@ -1,9 +1,21 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+- title: "Home"
+  url: /
+- title: "Research"
+  url: /research/
+- title: "Projects"
+  url: /projects/
+- title: "Blog"
+  url: /blog/
+- title: "CV"
+  url: https://drive.google.com/file/d/14s35yykLjipeHxleaqw3K_7wxWEuxSoq/view?usp=drive_link
+
+# main:
+#   - title: "Posts"
+#     url: /posts/
+#   - title: "Categories"
+#     url: /categories/
+#   - title: "Tags"
+#     url: /tags/
+#   - title: "About"
+#     url: /about/
