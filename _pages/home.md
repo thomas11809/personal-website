@@ -35,10 +35,9 @@ header:
 
 ### About Me
 
-**I am an AI researcher dedicated to the intersection of technology and ethics.**
+**I am an AI researcher exploring the frontiers of technology through research, ventures, and art.**
 
-My work delves into the societal impact of artificial intelligence, focusing on building human-centric, trustworthy AI that goes beyond performance metrics.
-<!-- The ethical insights I gained from community service during my military tenure have become a philosophical cornerstone of my research.  -->
-This foundation drives me to solve real-world challenges, such as the critical issue of reliability in generative AI.
+As a Ph.D. Candidate in Computer Vision, my work spans from publishing high-impact generative AI research to building real-world applications.
+I've co-founded two startups where I architected core 3D vision pipelines and created media art using 3D Neural Rendering and GAN-based Face Swaps, which was finally exhibited at the Seoul Arts Center.
 
-This website is a space to share my research findings, technical experiences, and deeper thoughts on AI ethics. Through this journey, I hope to answer not only 'who I am' but also 'why I do what I do.'
+This website is a space to share my research findings, technical experiences, and deeper thoughts on the "how" and "why" of building at the edge of AI.
