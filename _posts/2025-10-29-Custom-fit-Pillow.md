@@ -13,15 +13,14 @@ tags:
   - Team Airus (Start-up)
 ---
 
-
-To Be Updated...
-<!--more-->
 <!-- Key tech: 스마트폰 스캔·AI모델링·3D프린팅 -->
 
 I want to share a case study of my most recent and intensive startup experience.
 This project was run by "Team Airus," and it was our 9-month journey from November 2023 to August 2024.
 
 Our product was a **3D-Printed Custom-fit Pillow**. 
+
+<!--more-->
 
 Unlike a simple concept, this was a full-throttle effort. 
 We assembled a dedicated team of fellow SNU Ph.D. candidates and a pharmaceutical specialist, built a functional MVP, drafted extensive patents, and pitched to numerous Korean accelerator programs.
