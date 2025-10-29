@@ -1,5 +1,5 @@
 ---
-title: "What if Your Tutor Was an AI Idol? Revisiting An AI-EdTech Project: \"Handsome Sang\""
+title: "[Handsome Sang] What if Your Tutor Was an AI Idol? Revisiting An AI-EdTech Project."
 layout: single
 excerpt_separator: "<!--more-->"
 # last_modified_at: YYYY-MM-DDTHH:MM:SS+09:00

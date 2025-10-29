@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Sung Ju (Thomas) Lee"
   avatar : "/assets/images/github_profile_chaerry.png"
-  bio    : "From generative research and startup challenges to artistic collaborations, my journey in AI has always been guided by curiosity. Here, I share both past explorations and forward-looking reflections - on technology, creativity, and the ethical dilemmas that lie ahead."
+  bio    : "From generative research and startup challenges to artistic collaborations, my journey in AI has always been guided by curiosity. Here, I share both past explorations and deeper thoughts on technology, creativity, and the ethical dilemmas that lie ahead."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
