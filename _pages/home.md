@@ -7,7 +7,7 @@ header:
 #   caption: "Photo credit: [**Unsplash**](https://unsplash.com)" # Optional: remove if not needed
   actions:
     - label: "Download CV"
-      url: https://drive.google.com/file/d/14s35yykLjipeHxleaqw3K_7wxWEuxSoq/view?usp=drive_link
+      url: https://drive.google.com/file/d/1VlJtP92MsjkVZihB37UHI1W55iMp1pB9/view
 
 # A brief introduction used for SEO and site metadata
 # excerpt: "I am an AI researcher exploring the convergence of technology and ethics."
