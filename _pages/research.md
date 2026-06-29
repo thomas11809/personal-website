@@ -6,7 +6,15 @@ author_profile: true
 ---
 
 ### Generative AI & Watermarking
-* [ICCV, 2025](https://thomas11809.github.io/SFWMark/)
+
+- **Semantic Watermarking Reinvented: Enhancing Robustness and Generation Quality with Fourier Integrity**  
+  ICCV 2025 · [project page](https://thomas11809.github.io/SFWMark/)
+- **PhaseMark: A Post-hoc, Optimization-Free Watermarking of AI-generated Images in the Latent Frequency Domain**  
+  ICASSP 2026
+- **The Semantic Imprinting Hypothesis: How Semantic Watermarks Survive Prompt-based Editing**  
+  ICLR 2026 Workshop on Trustworthy AI
 
 ### Industrial Computer Vision
-* [IEEE Access, 2025](https://doi.org/10.1109/ACCESS.2025.3604431)
+
+- **3D CT Slice Image-Based Algorithm for Non-Wet Defect Inspection in Solder Joints**  
+  IEEE Access, Vol. 13, 2025 · [paper](https://doi.org/10.1109/ACCESS.2025.3604431)
